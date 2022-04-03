@@ -1,9 +1,8 @@
-<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611a599ed245d55cb44a36a97240180272944522c99&rid=giphy.gif&ct=g" align="right" width="200" height="150">
+<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611a599ed245d55cb44a36a97240180272944522c99&rid=giphy.gif&ct=g" align="right" width="300" height="225">
 
 ## Hi there, I'm Kürşat! :wave:
 
 ### Software Engineer
-#
 <img src="https://img.shields.io/github/followers/kursatdemirdelen?style=social">
 
 #
