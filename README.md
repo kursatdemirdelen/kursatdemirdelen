@@ -19,8 +19,7 @@
 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/kursatdemirdelen/)
-[![Twitter](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=instagram&logoColor=ffffff)](https://instagram.com/kursatdemirdelen)
-[![Mail](https://img.shields.io/badge/Mail-Connect-14171a)](https://instagram.com/kursatdemirdelen)
+[![Instagram](https://img.shields.io/badge/Mail-Connect-14171a)](https://instagram.com/kursatdemirdelen)
 
 #
 :rocket: Languages and Tools:
