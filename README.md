@@ -6,7 +6,6 @@
 
 #
 🌱 I'm currently learning:
-
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="js" width="24" height="24"/> </a>
  <a href="https://python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="python" width="24" height="24"/> </a>
 <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://iconape.com/wp-content/png_logo_vector/c.png" alt="csharp" width="24" height="24"/> </a>
