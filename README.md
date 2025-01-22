@@ -30,7 +30,4 @@ I am constantly learning and striving to improve my skills in web development. M
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kursatdemirdelen)    
 - [![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:mods3@hotmail.com)
 
-## 🎨 Design & Style
-
-This page is designed with a clean and modern approach. I value visual aesthetics in my projects and often use blue tones in my designs. The layout and fonts reflect a minimalistic style to ensure readability and simplicity.
-
+  
