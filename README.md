@@ -10,17 +10,6 @@ Hello! I'm **Kürşat Demirdelen**, a web developer focused on front-end project
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript**: Adding interactivity and functionality to web applications.
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) **HTML & CSS**: Structuring and styling web pages.
 
-## 💼 Featured Projects
-
-### 1. **Customer Tracking System**
-Developed a customer tracking application where users can manage and track customer information. I built the user interface to facilitate easy tracking and management.
-
-### 2. **User Management**
-Worked on an admin panel for user management, providing access control and role management features. The system was integrated with the backend to handle user data securely.
-
-### 3. **Employee & Ticket Management System**
-Created a system for managing employee tasks and ticket tracking. Designed an interactive interface for monitoring employee performance and task status.
- 
 ## ✨ My Journey
 
 I am constantly learning and striving to improve my skills in web development. My goal is to create modern web applications that deliver valuable user experiences and are scalable, maintainable, and high-performance.
