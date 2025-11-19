@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Kürşat Demirdelen
+# Hey, I'm Kürşat Demirdelen
 
 Hello! I'm **Kürşat Demirdelen**, a web developer focused on front-end projects. I specialize in crafting user-friendly, high-performance, and visually appealing interfaces with modern web technologies.
 
