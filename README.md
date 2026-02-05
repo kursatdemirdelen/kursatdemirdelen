@@ -1,6 +1,6 @@
 <div align="center">
   
-[# 👋 Hey, I'm Kürşat Demirdelen](https://capsule-render.vercel.app/api?type=waving&height=250&text=Ahmet%20Kürşat%20Demirdelen&fontAlignY=25&textBg=false&fontSize=46&animation=fadeIn&desc=Software%20Engineer&descAlignY=50&reversal=false&fontColor=fff)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Ahmet%20Kürşat%20Demirdelen&fontAlignY=25&textBg=false&fontSize=46&animation=fadeIn&desc=Software%20Engineer&descAlignY=50&reversal=false&fontColor=fff"/>
 
 ### Frontend Developer | UI Enthusiast | Car Culture Lover
 
